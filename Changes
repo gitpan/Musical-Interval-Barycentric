@@ -1,0 +1,5 @@
+Revision history for Musical-Interval-Barycentric
+
+0.01_01 2014-06-08
+    - Imported functionality from github:Music/barycentric.
+    - Minted by Dist::Zilla

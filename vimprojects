@@ -1,0 +1,15 @@
+Musical-Interval-Barycentric=~/dev/REPO/Musical-Interval-Barycentric CD=. {
+ lib=lib/Musical-Interval-Barycentric {
+  Musical-Interval-Barycentric.pm
+ }
+ t=t {
+  00-load.t
+  01-methods.t
+ }
+ bin=bin {
+ }
+ ex=examples {
+ }
+ Changes
+ dist.ini
+}
